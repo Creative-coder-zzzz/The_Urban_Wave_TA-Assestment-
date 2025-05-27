@@ -11,7 +11,7 @@ const PlaceOrder = ({amount}) => {
 
   const handleRazorpayPayment = () => {
     const options = {
-      key: 'rzp_test_nL3PNE3mWvLMvi', 
+      key: 'rzp_test_0u8txNNa2hVQBT', 
       amount: (getCartAmount() + delivery_fee) * 100, 
       currency: 'INR',
       name: 'The Urban Wave',

@@ -18,7 +18,7 @@ const Login = () => {
   const isVerifying = location.pathname.includes('verify');
 
   return (
-    <div className="flex flex-col items-center w-full min-h-screen justify-center text-black px-2 mt-[-90px] md:mt-0 lg:mt-0 ">
+    <div className="flex flex-col items-center w-full min-h-screen justify-center text-black px-2 mt-[-80px] md:mt-0 lg:mt-0 ">
       {mode == "sign-in" ? <h1 className="text-blue-600">To view cart or access other pages you must login first</h1> : null}
 
       {!isVerifying && (
