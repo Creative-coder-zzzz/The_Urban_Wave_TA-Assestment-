@@ -10,7 +10,7 @@
 ## 🌐 Live Site
 
 🔗 [https://the-urban-wave-ta-assestment-j37m95low.vercel.app/](https://the-urban-wave-ta-assestment-j37m95low.vercel.app/)  
-> Domain purchased from **GoDaddy** and deployed on **Web Eye Soft**
+
 
 ---
 
@@ -36,7 +36,6 @@
 | **Routing**        | React Router DOM                 |
 | **State Mgmt.**    | React useState / useContext      |
 | **Payment**        | Razorpay Payment Gateway         |
-| **Hosting**        | Web Eye Soft (with GoDaddy domain) |
 
 ---
 
